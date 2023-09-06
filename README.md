@@ -192,7 +192,7 @@ If you rather install this framework manually, just drag and drop the Chameleon 
   <img src="http://i.imgur.com/gDXaF5F.png" alt="Manual Installation"/>
 </p>
 
-If you're working with Swift and are manually installing Chameleon, there's an additional step. Make sure to download and drag the following file, [ChameleonShorthand.swift](https://github.com/ViccAlexander/Chameleon/blob/master/Pod/Classes/Swift/ChameleonShorthand.swift), into your project, and you'll be good to go.
+If you're working with Swift and are manually installing Chameleon, there's an additional step. Make sure to download and drag the following file, [ChameleonShorthand.swift](https://gist.github.com/vsrc/7bfd226a340a427279032c70dc7c2173), into your project, and you'll be good to go.
 
 #### Palettes
 ##### Storyboard Add-On
